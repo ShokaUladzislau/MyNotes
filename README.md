@@ -43,7 +43,7 @@ The project is structured as follows:
 
 app/ - contains the application code
 app/src/main/java/com/example/mynotes/ - contains the main application code
-app/src/main/java/com/example/mynotes/data/ - contains the database and repository classes
+app/src/main/java/com/example/mynotes/database/ - contains the database and repository classes
 app/src/main/java/com/example/mynotes/ui/ - contains the activities and viewmodels classes
 app/src/main/res/ - contains the application resources, such as layouts and strings
 Screenshots
