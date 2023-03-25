@@ -46,7 +46,7 @@ app/src/main/java/com/example/mynotes/ - contains the main application code
 app/src/main/java/com/example/mynotes/database/ - contains the database and repository classes
 app/src/main/java/com/example/mynotes/ui/ - contains the activities and viewmodels classes
 app/src/main/res/ - contains the application resources, such as layouts and strings
-Screenshots
 
+Demo
 
 <img src="https://github.com/ShokaUladzislau/MyNotes/blob/main/demo/mynotes_demo.gif" width="250"/>
